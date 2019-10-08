@@ -4,12 +4,13 @@
 
 ## Descrição
 
-# Dividido em classes: Interfaces, Servers, Clientes.
-## Interfaces: definem os metodos a serem implementados pelos servidores
+## Dividido em classes: Interfaces, Servidores, Clientes.
 
-## Server: hospeda o objeto que será acessado remotamente.
+Interfaces: definem os metodos a serem implementados pelos servidores
 
-## Cliente: acessa o objeto hospedado pelo Server e invoca algum de seus métodos. O Server executa o método localmente e retorna para o Cliente o resultado do metodo chamado, no caso uma mensagem.
+Servidores: hospeda o objeto que será acessado remotamente.
+
+ Cliente: acessa o objeto hospedado pelo Server e invoca algum de seus métodos. O Server executa o método localmente e retorna para o Cliente o resultado do metodo chamado, no caso uma mensagem.
 
 Esse é um projeto proposto pelo professor da matéria de rede computadores. Consiste em implementar um servidor DNS utlizando a linguagem de programação JAVA.
 
